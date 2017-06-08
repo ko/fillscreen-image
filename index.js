@@ -1,4 +1,4 @@
-exports.FullscreenImage = function FullscreenImage(json, domExists) {  
+exports.FillscreenImage = function FillscreenImage(json, domExists) {  
     this.domExists = domExists;
     this.defaultWindow = {
       innerHeight: 800,
